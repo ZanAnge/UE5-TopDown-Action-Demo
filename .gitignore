@@ -1,0 +1,14 @@
+# Unreal Engine 5 忽略规则
+Binaries/
+Build/
+Intermediate/
+DerivedDataCache/
+Saved/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
