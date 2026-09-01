@@ -8,7 +8,7 @@
 
 ## Demo 演示
 
-- [点击查看项目运行录屏](Docs/UE5-TopDown-Action-Demo.mp4)
+- [下载查看项目运行录屏（MKV）](Docs/UE5-TopDown-Action-Demo.mkv)
 - 当前录屏用于展示阶段性成果，后续将随功能迭代更新。
 
 ## 已实现内容
